@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+
+    <string-array name="length_units">
+        <item>Kilometers</item>
+        <item>Meters</item>
+        <item>Centimeters</item>
+        <item>Millimeters</item>
+        <item>Micrometers</item>
+    </string-array>
+    <!-- Add more arrays for other unit types as needed -->
+</resources>
